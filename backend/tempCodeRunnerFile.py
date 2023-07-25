@@ -1,0 +1,1 @@
+print(divide(5, 2))

@@ -1,0 +1,39 @@
+{
+    "videos" : [
+    {
+        "id" : "1",
+        "title" : "blurred car traffic lights",
+        "duration" : "00:10"
+    },
+    {
+        "id" : "2",
+        "title" : "Boat in Island [UHD]",
+        "duration" : "00:14"
+    },
+    {
+        "id" : "3",
+        "title" : "City traffic lights-Free Footage-4KHD",
+        "duration" : "00:06"  
+    },
+    {
+        "id" : "4",
+        "title" : "Electronic Circuit video",
+        "duration" : "00:14"  
+    },
+    {
+        "id" : "5",
+        "title" : "Human Eyes",
+        "duration" : "02:08"  
+    },
+    {
+        "id" : "6",
+        "title" : "Night city traffic timelapse",
+        "duration" : "00:10"
+    },
+    {
+        "id" : "7",
+        "title" : "Rainy City Night",
+        "duration" : "01:01"
+    }
+    ]
+}
